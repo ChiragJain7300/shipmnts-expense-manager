@@ -1,3 +1,11 @@
+*Steps to run this project 
+
+  **Download the project
+  
+  **Install dependencies using command "npm install" in the terminal
+  
+  **After all the dependencies are downloaded use command "npm start" to start the project 
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App]
